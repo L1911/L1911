@@ -61,8 +61,4 @@ Active [DAFIC](https://dafic.org/)'s member and current Coordinator of the Activ
      alt="Git"/>
 </a>
 
-## My GitHub stats 🧮
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-![L19's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1911&theme=dark\&show_icons=true\&rank_icon=github)
-
 <div>
